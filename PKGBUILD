@@ -3,7 +3,7 @@
 # Contributor: Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>
 
 pkgbase=mbp-16.1-linux-wifi
-pkgver=5.14.3
+pkgver=5.10.67
 _srcname=linux-${pkgver}
 pkgrel=1
 pkgdesc='Linux for MBP 16.1 Wifi'
