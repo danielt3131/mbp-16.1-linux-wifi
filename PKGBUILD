@@ -4,9 +4,9 @@
 
 pkgbase=mbp-16.1-linux-wifi
 pkgver=5.10.67
-_srcname=linux-${pkgver}
+_srcname=linux-lts${pkgver}
 pkgrel=1
-pkgdesc='Linux for MBP 16.1 Wifi'
+pkgdesc='Linux-LTS for MBP 16.1 Wifi'
 _srctag=v${pkgver%.*}-${pkgver##*.}
 url="https://git.archlinux.org/linux.git/log/?h=v$_srctag"
 arch=(x86_64)
